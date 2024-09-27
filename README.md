@@ -8,7 +8,7 @@ dados coletados do ano de 2022.
 
 **Confirma abaixo o que aprendi:**
 
-* Análises com Python
+* Análises com Python - Meu notebook https://github.com/Blancoduda/my_collab
 * Banco de Dados
 * SQL
 * Visualização de dados
